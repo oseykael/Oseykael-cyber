@@ -3,9 +3,9 @@
 <div align="center">
 
 # 👾 Osey-cyber
-### Ethical Hacker | Penetration Tester | Cybersecurity Enthusiast
+Offensive Security Learner | Penetration Testing | Web Security | CTF Player  
+Building hands-on skills in ethical hacking, vulnerability assessment, and Linux-based security testing. 🇳🇬
 
-[
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Ethical+Hacker+%F0%9F%94%93;Penetration+Tester+%F0%9F%92%BB;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;TryHackMe+%7C+HackTheBox;Always+Learning...)
 
